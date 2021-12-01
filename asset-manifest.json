@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prsk-song-selctor/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/prsk-song-selctor/static/js/main.2f05dc8a.chunk.js",
+    "main.js.map": "/prsk-song-selctor/static/js/main.2f05dc8a.chunk.js.map",
+    "runtime-main.js": "/prsk-song-selctor/static/js/runtime-main.019651c7.js",
+    "runtime-main.js.map": "/prsk-song-selctor/static/js/runtime-main.019651c7.js.map",
+    "static/js/2.3f26f1c9.chunk.js": "/prsk-song-selctor/static/js/2.3f26f1c9.chunk.js",
+    "static/js/2.3f26f1c9.chunk.js.map": "/prsk-song-selctor/static/js/2.3f26f1c9.chunk.js.map",
+    "static/js/3.2bd89e39.chunk.js": "/prsk-song-selctor/static/js/3.2bd89e39.chunk.js",
+    "static/js/3.2bd89e39.chunk.js.map": "/prsk-song-selctor/static/js/3.2bd89e39.chunk.js.map",
+    "index.html": "/prsk-song-selctor/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/prsk-song-selctor/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3f26f1c9.chunk.js.LICENSE.txt": "/prsk-song-selctor/static/js/2.3f26f1c9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/prsk-song-selctor/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.019651c7.js",
+    "static/js/2.3f26f1c9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2f05dc8a.chunk.js"
+  ]
+}
